@@ -8,8 +8,8 @@ Este repositório contém a implementação do projeto da unidade curricular de 
 - **results/**: Inclui os resultados das experiências e amostras de música geradas.
 - **AP_project.ipynb**: Jupyter Notebook com a implementação principal do projeto, onde é realizado um fine-tuning do modelo base do MusicGen.
 - **MusicGen_NoFineTune.ipynb**: Jupyter Notebook com a versão small pré-treinada do modelo MusicGen fornecida pela API do HuggingFace.
-- **responses.csv**: Ficheiro que contém as respostas ao [formulário](https://forms.gle/qzu5ar51KRjhwo8o8) criado para a avaliação das músicas geradas.
 - **relatorio.pdf**: Relatório do projeto.
+- **responses.csv**: Ficheiro que contém as respostas ao [formulário](https://forms.gle/qzu5ar51KRjhwo8o8) criado para a avaliação das músicas geradas.
 
 ## Getting started
 
